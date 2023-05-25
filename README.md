@@ -1,6 +1,25 @@
-# olá mundo
- hehepositorio
- teste aula repositorio
- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
- 
- essa linha eu adicionei no github site
+#Curso de Git e GitHub
+## Introdução a linguagem de Markdown
+### Títulos 
+
+*Itálicos* 
+**Negritos**
+__*Mistos*__
+
+Listas 
+
+0. Numeradas
+0. Numeradas 
+   * sub listas 
+   * sub listas 
+0. Numeradas 
+
+* Marcadas 
+* Marcadas 
+   0. sub listas 
+   0. sub listas 
+* Marcadas 
+
+-[] Listas de tarefas 
+-[x] Listas de tarefas
+-[] Listas de tarefas  
