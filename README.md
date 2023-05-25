@@ -20,6 +20,6 @@ Listas
    0. sub listas 
 * Marcadas 
 
--[] Listas de tarefas 
--[x] Listas de tarefas
--[] Listas de tarefas  
+- [ ] Listas de tarefas 
+- [x] Listas de tarefas
+- [ ] Listas de tarefas  
